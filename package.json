@@ -1,7 +1,7 @@
 {
 	"name": "@default-js/defaultjs-html-mixins",
 	"buildname": "defaultjs-html-mixins",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Mixin function for html pages",
 	"main": "./index.js",
 	"scripts": {
